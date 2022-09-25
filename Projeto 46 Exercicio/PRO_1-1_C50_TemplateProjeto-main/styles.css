@@ -15,7 +15,8 @@ body {
 .grid {
   /* adicione o código correto para colocar os elementos da grade
   um ao lado do outro igualmente.   */
-
+  display: flex;
+  
   flex-wrap: wrap;
   font-family: sans-serif;
 }
